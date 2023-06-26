@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanteUrdaneta
-- 👀 I’m interested in Data Scientist and Desktop apps dev
+- 👀 I’m interested in Data Scientist and Software Dev.
 - 🌱 I’m currently learning Machine learning and Neural Networks
-- 💞️ I’m looking to collaborate on amazing and interestings projects
+- 💞️ I’m looking to collaborate on amazing and interesting projects
 - 📫 How to reach me [You can't yet]
 
 <!---
