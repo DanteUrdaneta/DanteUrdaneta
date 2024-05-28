@@ -1,4 +1,6 @@
+<div align="center">
   <img height="100" src="https://i.pinimg.com/originals/bb/fa/30/bbfa30a752409dc211bda11676d4a2d8.gif"  />
+</div>
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
