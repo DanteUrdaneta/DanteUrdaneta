@@ -1,3 +1,3 @@
 <div align="center">
-  <img height="100" src="https://i.pinimg.com/originals/bb/fa/30/bbfa30a752409dc211bda11676d4a2d8.gif"  />
+  <img height="100" src="https://i.pinimg.com/originals/3c/06/3c/3c063cb020c08d8d4530aa06ab8e310a.gif"  />
 </div>
