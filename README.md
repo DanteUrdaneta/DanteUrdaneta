@@ -7,3 +7,7 @@
     「<b>Nestor Urdaneta</b> 🌙」Python Developer<br>
 </samp>
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/stars/danteurdaneta?style=flat-square&label=Stars&labelColor=d1d5ed&color=rgb(242, 222, 209)" alt="stars" />
+</div>
